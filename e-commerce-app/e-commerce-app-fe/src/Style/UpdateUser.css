@@ -1,0 +1,25 @@
+.updateuser form{
+    display: grid;
+    grid-template-columns: 200px 200px ;
+    box-shadow: 0px 0px 10px gray;
+    padding: 17px 70px;
+    margin: 17rem 30rem;
+    border-radius: 7px;
+}
+
+.updateuser label,input{
+margin: 10px 0px;
+border: none;
+}
+
+.updateuser input{
+    border-bottom: 2px solid black;
+    outline: none;
+}
+ 
+.updateuser{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+}

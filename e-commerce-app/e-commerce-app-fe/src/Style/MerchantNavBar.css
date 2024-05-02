@@ -1,0 +1,29 @@
+#navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: linear-gradient(orange,white,green);
+    height: 80px;
+    padding: 0px 50px;
+}
+
+#navbar h1{
+    color: brown;
+}
+
+#navbar span{
+    color: green;
+}
+
+#navbar a{
+    color: black;
+    text-decoration: none;
+}
+
+.option a{
+    margin: 0px 30px;
+}
+
+
+
+
